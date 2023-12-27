@@ -1,0 +1,22 @@
+package in.uday.model;
+
+import java.util.Date;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class CitizenPlan {
+
+	private Integer CITIZEN_ID;
+	private String CITIZEN_NAME;
+	private String GENDER;
+	private String PLAN_NAME;
+	private String PLAN_STATUS;
+	private Date   PLAN_START_DATE;
+	private Date   PLAN_END_DATE;
+	private Integer BENFIT_NUMBER;
+	private String  DENIAL_REASON;
+	private Date    TERMINATE_DATE;
+	private String  
+
+}

@@ -1,0 +1,15 @@
+package in.uday.model;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class CitizenPlan {
+
+	private Integer CITIZEN_ID;
+	private String CITIZEN_NAME;
+	private String GENDER;
+	private String PLAN_NAME;
+	
+	
+
+}

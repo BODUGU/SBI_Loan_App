@@ -1,0 +1,12 @@
+package in.uday.model;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class CitizenPlan {
+	
+	private Citi
+	
+	
+
+}
